@@ -1,0 +1,42 @@
+[
+  {
+    "symbol": "AMD",
+    "qty": 20,
+    "side": "BUY"
+  },
+  {
+    "symbol": "AVGO",
+    "qty": 13,
+    "side": "BUY"
+  },
+  {
+    "symbol": "MS",
+    "qty": 28,
+    "side": "BUY"
+  },
+  {
+    "symbol": "AMZN",
+    "qty": 21,
+    "side": "BUY"
+  },
+  {
+    "symbol": "BAC",
+    "qty": 98,
+    "side": "BUY"
+  },
+  {
+    "symbol": "NKE",
+    "qty": 118,
+    "side": "BUY"
+  },
+  {
+    "symbol": "TMO",
+    "qty": 10,
+    "side": "BUY"
+  },
+  {
+    "symbol": "NFLX",
+    "qty": 49,
+    "side": "BUY"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": "2026-04-16T04:09:29.571940",
+    "event": "START",
+    "message": "Risk assessment started",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T04:09:30.457342",
+    "event": "MARKET_DATA",
+    "message": "VIX=18.02 SP=0.8%",
+    "data": {
+      "vix": 18.02,
+      "vix_change": -0.83,
+      "sp500_change": 0.8
+    }
+  },
+  {
+    "timestamp": "2026-04-16T04:09:30.457838",
+    "event": "NEWS",
+    "message": "Sentiment=neutral",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T04:09:30.458162",
+    "event": "PROFILE",
+    "message": "Selected=normal Reason=MEDIUM RISK: VIX=18.02 SP=0.8%",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T04:09:30.458499",
+    "event": "NO_CHANGE",
+    "message": "Profile unchanged: normal",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T05:30:31.918398",
+    "event": "START",
+    "message": "Risk assessment started",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T05:30:32.812410",
+    "event": "MARKET_DATA",
+    "message": "VIX=18.08 SP=0.8%",
+    "data": {
+      "vix": 18.08,
+      "vix_change": -0.5,
+      "sp500_change": 0.8
+    }
+  },
+  {
+    "timestamp": "2026-04-16T05:30:32.813488",
+    "event": "NEWS",
+    "message": "Sentiment=neutral",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T05:30:32.814028",
+    "event": "PROFILE",
+    "message": "Selected=normal Reason=MEDIUM RISK: VIX=18.08 SP=0.8%",
+    "data": {}
+  },
+  {
+    "timestamp": "2026-04-16T05:30:32.814503",
+    "event": "NO_CHANGE",
+    "message": "Profile unchanged: normal",
+    "data": {}
+  }
+]

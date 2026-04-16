@@ -1,0 +1,32 @@
+{
+  "AMD": {
+    "entry_price": 258.12,
+    "shares": 16,
+    "engine": "momentum"
+  },
+  "AVGO": {
+    "entry_price": 396.72,
+    "shares": 10,
+    "engine": "momentum"
+  },
+  "MS": {
+    "entry_price": 191.62,
+    "shares": 21,
+    "engine": "momentum"
+  },
+  "AMZN": {
+    "entry_price": 248.5,
+    "shares": 16,
+    "engine": "momentum"
+  },
+  "BAC": {
+    "entry_price": 54.32,
+    "shares": 76,
+    "engine": "momentum"
+  },
+  "NKE": {
+    "entry_price": 45.44,
+    "shares": 91,
+    "engine": "momentum"
+  }
+}
